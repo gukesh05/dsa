@@ -18,3 +18,7 @@
 [09 Naive String Matching Algorithm.txt](https://github.com/user-attachments/files/23505521/09.Naive.String.Matching.Algorithm.txt)
 
 [10 Maze solver AI system.txt](https://github.com/user-attachments/files/23505527/10.Maze.solver.AI.system.txt)
+
+compile - g++ filename.cpp -o filename
+
+run - ./filename
