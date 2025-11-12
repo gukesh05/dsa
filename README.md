@@ -1,7 +1,7 @@
 # dsa
 [01 searching sorting.txt](https://github.com/user-attachments/files/23505498/01.searching.sorting.txt)
 
-[02 Stack as an ADT using SLLd.txt](https://github.com/user-attachments/files/23505499/02.Stack.as.an.ADT.using.SLLd.txt)
+[02 Stack as an ADT using SLLd.txt](https://github.com/user-attachments/files/23507244/02.Stack.as.an.ADT.using.SLLd.txt)
 
 [03 Circular Queue.txt](https://github.com/user-attachments/files/23505503/03.Circular.Queue.txt)
 
